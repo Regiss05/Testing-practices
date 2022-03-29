@@ -1,0 +1,22 @@
+{
+  "name": "testing-practice",
+  "version": "1.0.0",
+  "main": "challenge.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Regiss05/Testing-practice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Regiss05/Testing-practice/issues"
+  },
+  "homepage": "https://github.com/Regiss05/Testing-practice#readme",
+  "devDependencies": {
+    "jest": "^27.5.1"
+  },
+  "description": ""
+}
